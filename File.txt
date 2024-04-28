@@ -1,0 +1,3 @@
+Name: abc
+age: 21
+clg : skn
